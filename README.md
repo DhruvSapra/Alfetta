@@ -137,7 +137,7 @@ https://user-images.githubusercontent.com/111511248/194223248-77d15f45-b21e-482c
 ## Contributors 
 
 * [Raghav Agarwal](https://github.com/Raghav323)
-* [Dhruv Sapra](https://github.com/Dhruv-Sapra)
+* [Dhruv Sapra](https://github.com/DhruvSapra)
 
 ## Acknowledgements and Resources
 * [SRA VJTI](https://www.sravjti.in/) Eklavya 2021  
