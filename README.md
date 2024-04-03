@@ -1,4 +1,3 @@
-
 # Table of Contents
 
 - [Alfetta](#sketch-2-paint)
@@ -120,6 +119,8 @@ right_duty_cycle= self_balancing_correction + line_correction
 
 ## Results and Demo
 This is the final output of our project . The self balancing and line following algorithm is still not perfect . The bot still touches the ground at occasions which is not ideal for a self balancing bot . 
+
+https://github.com/Dhruv-Sapra/Alfetta/assets/111555972/18778894-34da-49f9-b422-8e4f3e8cff1a
 
 https://user-images.githubusercontent.com/111511248/194223248-77d15f45-b21e-482c-922c-cc45c4c83eca.mp4
 
